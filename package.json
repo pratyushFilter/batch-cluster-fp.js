@@ -1,6 +1,6 @@
 {
   "name": "batch-cluster-fp",
-  "version": "13.0.1",
+  "version": "13.0.2",
   "description": "Manage a cluster of child processes",
   "main": "dist/BatchCluster.js",
   "types": "dist/BatchCluster.d.ts",
