@@ -1,16 +1,12 @@
 {
-  "name": "batch-cluster",
+  "name": "batch-cluster-fp",
   "version": "13.0.0",
   "description": "Manage a cluster of child processes",
   "main": "dist/BatchCluster.js",
-  "homepage": "https://photostructure.github.io/batch-cluster.js/",
-  "bugs": {
-    "url": "https://github.com/photostructure/batch-cluster.js/issues"
-  },
   "types": "dist/BatchCluster.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/photostructure/batch-cluster.js.git"
+    "url": "https://github.com/pratyushFilter/batch-cluster-fp.js"
   },
   "engines": {
     "node": ">=14"
@@ -46,7 +42,7 @@
       "release": true
     }
   },
-  "author": "Matthew McEachen <matthew-batchcluster@photostructure.com>",
+  "author": "Pratyush Goel <pratyush@filterpixel.com>",
   "license": "MIT",
   "devDependencies": {
     "@sinonjs/fake-timers": "^13.0.3",

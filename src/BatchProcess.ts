@@ -1,5 +1,5 @@
-import child_process from "node:child_process"
-import timers from "node:timers"
+import child_process from "child_process"
+import timers from "timers"
 import { until } from "./Async"
 import { Deferred } from "./Deferred"
 import { cleanError } from "./Error"

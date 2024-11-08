@@ -1,4 +1,4 @@
-import timers from "node:timers"
+import timers from "timers"
 export const Timeout = Symbol("timeout")
 
 export async function thenOrTimeout<T>(

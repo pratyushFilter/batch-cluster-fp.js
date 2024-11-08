@@ -1,4 +1,4 @@
-import { Readable, Writable } from "node:stream"
+import { Readable, Writable } from "stream"
 
 export function destroy(stream: Readable | Writable | null) {
   try {

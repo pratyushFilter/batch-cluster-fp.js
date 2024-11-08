@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import process from "node:process"
+import process from "process"
 import { delay } from "./Async"
 import { Mutex } from "./Mutex"
 
